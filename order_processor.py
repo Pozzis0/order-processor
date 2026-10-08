@@ -1,4 +1,3 @@
 def calculate_total(price, quantity):
-return price * quantity
-
-# Тест
+    """Вычисляет общую стоимость заказа."""
+    return price * quantity
